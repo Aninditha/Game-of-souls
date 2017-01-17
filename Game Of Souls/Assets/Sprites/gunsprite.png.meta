@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 68530ee4b103ab34597ad308dc1966cf
+timeCreated: 1480464140
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gunsprite_0
+    21300002: gunsprite_1
+    21300004: gunsprite_2
+    21300006: gunsprite_3
+    21300008: gunsprite_4
+    21300010: gunsprite_5
+    21300012: gunsprite_6
+    21300014: gunsprite_7
+    21300016: gunsprite_8
+    21300018: gunsprite_9
+    21300020: gunsprite_10
+    21300022: gunsprite_11
+    21300024: gunsprite_12
+    21300026: gunsprite_13
+    21300028: gunsprite_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 75
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gunsprite_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 530
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 536
+        width: 124
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 540
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 536
+        width: 114
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 380
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 372
+        width: 108
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 380
+        width: 128
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 368
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 226
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 214
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_11
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 206
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gunsprite_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 54
+        width: 122
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
