@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dfb5edc525e31314fbc9a5f627581559
+timeCreated: 1480563792
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyTexture: {instanceID: 0}
+  - enemy: {fileID: 1000010622368990, guid: a39862a4e31f5d746a4e025302f6678d, type: 2}
+  - Reaper: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
