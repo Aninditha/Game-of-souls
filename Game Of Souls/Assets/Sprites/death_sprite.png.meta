@@ -1,0 +1,3536 @@
+fileFormatVersion: 2
+guid: 8ff8d765ac4e0b8449dba5c101b8ddc9
+timeCreated: 1480292493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: death_sprite_0
+    21300002: death_sprite_1
+    21300004: death_sprite_2
+    21300006: death_sprite_3
+    21300008: death_sprite_4
+    21300010: death_sprite_5
+    21300012: death_sprite_6
+    21300014: death_sprite_7
+    21300016: death_sprite_8
+    21300018: death_sprite_9
+    21300020: death_sprite_10
+    21300022: death_sprite_11
+    21300024: death_sprite_12
+    21300026: death_sprite_13
+    21300028: death_sprite_14
+    21300030: death_sprite_15
+    21300032: death_sprite_16
+    21300034: death_sprite_17
+    21300036: death_sprite_18
+    21300038: death_sprite_19
+    21300040: death_sprite_20
+    21300042: death_sprite_21
+    21300044: death_sprite_22
+    21300046: death_sprite_23
+    21300048: death_sprite_24
+    21300050: death_sprite_25
+    21300052: death_sprite_26
+    21300054: death_sprite_27
+    21300056: death_sprite_28
+    21300058: death_sprite_29
+    21300060: death_sprite_30
+    21300062: death_sprite_31
+    21300064: death_sprite_32
+    21300066: death_sprite_33
+    21300068: death_sprite_34
+    21300070: death_sprite_35
+    21300072: death_sprite_36
+    21300074: death_sprite_37
+    21300076: death_sprite_38
+    21300078: death_sprite_39
+    21300080: death_sprite_40
+    21300082: death_sprite_41
+    21300084: death_sprite_42
+    21300086: death_sprite_43
+    21300088: death_sprite_44
+    21300090: death_sprite_45
+    21300092: death_sprite_46
+    21300094: death_sprite_47
+    21300096: death_sprite_48
+    21300098: death_sprite_49
+    21300100: death_sprite_50
+    21300102: death_sprite_51
+    21300104: death_sprite_52
+    21300106: death_sprite_53
+    21300108: death_sprite_54
+    21300110: death_sprite_55
+    21300112: death_sprite_56
+    21300114: death_sprite_57
+    21300116: death_sprite_58
+    21300118: death_sprite_59
+    21300120: death_sprite_60
+    21300122: death_sprite_61
+    21300124: death_sprite_62
+    21300126: death_sprite_63
+    21300128: death_sprite_64
+    21300130: death_sprite_65
+    21300132: death_sprite_66
+    21300134: death_sprite_67
+    21300136: death_sprite_68
+    21300138: death_sprite_69
+    21300140: death_sprite_70
+    21300142: death_sprite_71
+    21300144: death_sprite_72
+    21300146: death_sprite_73
+    21300148: death_sprite_74
+    21300150: death_sprite_75
+    21300152: death_sprite_76
+    21300154: death_sprite_77
+    21300156: death_sprite_78
+    21300158: death_sprite_79
+    21300160: death_sprite_80
+    21300162: death_sprite_81
+    21300164: death_sprite_82
+    21300166: death_sprite_83
+    21300168: death_sprite_84
+    21300170: death_sprite_85
+    21300172: death_sprite_86
+    21300174: death_sprite_87
+    21300176: death_sprite_88
+    21300178: death_sprite_89
+    21300180: death_sprite_90
+    21300182: death_sprite_91
+    21300184: death_sprite_92
+    21300186: death_sprite_93
+    21300188: death_sprite_94
+    21300190: death_sprite_95
+    21300192: death_sprite_96
+    21300194: death_sprite_97
+    21300196: death_sprite_98
+    21300198: death_sprite_99
+    21300200: death_sprite_100
+    21300202: death_sprite_101
+    21300204: death_sprite_102
+    21300206: death_sprite_103
+    21300208: death_sprite_104
+    21300210: death_sprite_105
+    21300212: death_sprite_106
+    21300214: death_sprite_107
+    21300216: death_sprite_108
+    21300218: death_sprite_109
+    21300220: death_sprite_110
+    21300222: death_sprite_111
+    21300224: death_sprite_112
+    21300226: death_sprite_113
+    21300228: death_sprite_114
+    21300230: death_sprite_115
+    21300232: death_sprite_116
+    21300234: death_sprite_117
+    21300236: death_sprite_118
+    21300238: death_sprite_119
+    21300240: death_sprite_120
+    21300242: death_sprite_121
+    21300244: death_sprite_122
+    21300246: death_sprite_123
+    21300248: death_sprite_124
+    21300250: death_sprite_125
+    21300252: death_sprite_126
+    21300254: death_sprite_127
+    21300256: death_sprite_128
+    21300258: death_sprite_129
+    21300260: death_sprite_130
+    21300262: death_sprite_131
+    21300264: death_sprite_132
+    21300266: death_sprite_133
+    21300268: death_sprite_134
+    21300270: death_sprite_135
+    21300272: death_sprite_136
+    21300274: death_sprite_137
+    21300276: death_sprite_138
+    21300278: death_sprite_139
+    21300280: death_sprite_140
+    21300282: death_sprite_141
+    21300284: death_sprite_142
+    21300286: death_sprite_143
+    21300288: death_sprite_144
+    21300290: death_sprite_145
+    21300292: death_sprite_146
+    21300294: death_sprite_147
+    21300296: death_sprite_148
+    21300298: death_sprite_149
+    21300300: death_sprite_150
+    21300302: death_sprite_151
+    21300304: death_sprite_152
+    21300306: death_sprite_153
+    21300308: death_sprite_154
+    21300310: death_sprite_155
+    21300312: death_sprite_156
+    21300314: death_sprite_157
+    21300316: death_sprite_158
+    21300318: death_sprite_159
+    21300320: death_sprite_160
+    21300322: death_sprite_161
+    21300324: death_sprite_162
+    21300326: death_sprite_163
+    21300328: death_sprite_164
+    21300330: death_sprite_165
+    21300332: death_sprite_166
+    21300334: death_sprite_167
+    21300336: death_sprite_168
+    21300338: death_sprite_169
+    21300340: death_sprite_170
+    21300342: death_sprite_171
+    21300344: death_sprite_172
+    21300346: death_sprite_173
+    21300348: death_sprite_174
+    21300350: death_sprite_175
+    21300352: death_sprite_176
+    21300354: death_sprite_177
+    21300356: death_sprite_178
+    21300358: death_sprite_179
+    21300360: death_sprite_180
+    21300362: death_sprite_181
+    21300364: death_sprite_182
+    21300366: death_sprite_183
+    21300368: death_sprite_184
+    21300370: death_sprite_185
+    21300372: death_sprite_186
+    21300374: death_sprite_187
+    21300376: death_sprite_188
+    21300378: death_sprite_189
+    21300380: death_sprite_190
+    21300382: death_sprite_191
+    21300384: death_sprite_192
+    21300386: death_sprite_193
+    21300388: death_sprite_194
+    21300390: death_sprite_195
+    21300392: death_sprite_196
+    21300394: death_sprite_197
+    21300396: death_sprite_198
+    21300398: death_sprite_199
+    21300400: death_sprite_200
+    21300402: death_sprite_201
+    21300404: death_sprite_202
+    21300406: death_sprite_203
+    21300408: death_sprite_204
+    21300410: death_sprite_205
+    21300412: death_sprite_206
+    21300414: death_sprite_207
+    21300416: death_sprite_208
+    21300418: death_sprite_209
+    21300420: death_sprite_210
+    21300422: death_sprite_211
+    21300424: death_sprite_212
+    21300426: death_sprite_213
+    21300428: death_sprite_214
+    21300430: death_sprite_215
+    21300432: death_sprite_216
+    21300434: death_sprite_217
+    21300436: death_sprite_218
+    21300438: death_sprite_219
+    21300440: death_sprite_220
+    21300442: death_sprite_221
+    21300444: death_sprite_222
+    21300446: death_sprite_223
+    21300448: death_sprite_224
+    21300450: death_sprite_225
+    21300452: death_sprite_226
+    21300454: death_sprite_227
+    21300456: death_sprite_228
+    21300458: death_sprite_229
+    21300460: death_sprite_230
+    21300462: death_sprite_231
+    21300464: death_sprite_232
+    21300466: death_sprite_233
+    21300468: death_sprite_234
+    21300470: death_sprite_235
+    21300472: death_sprite_236
+    21300474: death_sprite_237
+    21300476: death_sprite_238
+    21300478: death_sprite_239
+    21300480: death_sprite_240
+    21300482: death_sprite_241
+    21300484: death_sprite_242
+    21300486: death_sprite_243
+    21300488: death_sprite_244
+    21300490: death_sprite_245
+    21300492: death_sprite_246
+    21300494: death_sprite_247
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 9
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: death_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1631
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1650
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1650
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1650
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1650
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1649
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1649
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1649
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1649
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1650
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1650
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1650
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1650
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1631
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1601
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1602
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1601
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1602
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1601
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1541
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1542
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1541
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1541
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1541
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1541
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1542
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1541
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1382
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1464
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1464
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1464
+        width: 81
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1464
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1382
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1397
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1414
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1407
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1407
+        width: 81
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1414
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1397
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1329
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1329
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1312
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1296
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1291
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1291
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1296
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1312
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1329
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1329
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1217
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1228
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1239
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1242
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1242
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1239
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1228
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_63
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1217
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1183
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_65
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1166
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1157
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_67
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1150
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1152
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_69
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1152
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_70
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1150
+        width: 37
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_71
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1157
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_72
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1166
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_73
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1183
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1030
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_75
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1030
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1022
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_77
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1022
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1022
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_79
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1022
+        width: 42
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_80
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1030
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_81
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1030
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 941
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_83
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 938
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_84
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 938
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_85
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 938
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_86
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 938
+        width: 98
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 941
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 871
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 871
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_90
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 871
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_91
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 871
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_93
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_95
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_96
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_97
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_98
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_99
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 795
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 768
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_101
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 768
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_102
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 768
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_103
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 768
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_104
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 748
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_105
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 748
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_106
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 748
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_107
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 748
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 730
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_109
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 730
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_110
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 730
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_111
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 730
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 664
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_113
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 662
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_114
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 662
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_115
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 664
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_116
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 614
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_117
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 614
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_118
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 614
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_119
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 614
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_120
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 614
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_121
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 612
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_122
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 608
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_123
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 611
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 614
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_125
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 614
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_126
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 611
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_127
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 608
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_128
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 612
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 614
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_130
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 614
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_131
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 614
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_132
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 614
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_133
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 614
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_134
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 557
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_135
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 554
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_136
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 522
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_137
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 522
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_138
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 524
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_139
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 551
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_140
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 554
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_141
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 559
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 559
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_143
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 559
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_144
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 559
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_145
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 554
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_146
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 551
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_147
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 524
+        width: 32
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_148
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 522
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_149
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 522
+        width: 39
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_150
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 554
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_151
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 557
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_152
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 467
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_153
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 469
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_154
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_155
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_156
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_157
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_158
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_159
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_160
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_162
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_163
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_164
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_165
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_166
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_167
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_168
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_169
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 470
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_170
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 469
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_171
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 467
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_172
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 377
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_173
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_174
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_175
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_177
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_178
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 407
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_179
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 409
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_180
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 409
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_181
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 407
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_182
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_183
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_185
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_186
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 407
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_187
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 377
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_188
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 333
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_189
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 307
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_190
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 307
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_191
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 307
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_192
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 307
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_193
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 333
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_194
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_195
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_196
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_197
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_198
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_199
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 265
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_200
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_201
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_202
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 218
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_203
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 218
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_204
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_205
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 228
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_206
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_207
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 189
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_208
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 193
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_209
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_210
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_211
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 191
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_212
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_213
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 193
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_214
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 189
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_215
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_216
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_217
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 131
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_218
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 131
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_219
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_220
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_221
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_222
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_223
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 131
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_224
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_225
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 131
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_226
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 131
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_227
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_228
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_229
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_230
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_231
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 131
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_232
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 131
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_233
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 129
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_234
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 88
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_235
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 88
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_236
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 88
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_237
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 88
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_238
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 88
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_239
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 88
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_240
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 88
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_241
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 88
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_242
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 9
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_243
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 6
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_244
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_245
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_246
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: death_sprite_247
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 9
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
