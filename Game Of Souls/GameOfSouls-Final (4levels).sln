@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfSouls-Final (4levels).CSharp", "GameOfSouls-Final (4levels).CSharp.csproj", "{B4F8696F-6AE7-E221-3EC1-733743DC43B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4F8696F-6AE7-E221-3EC1-733743DC43B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F8696F-6AE7-E221-3EC1-733743DC43B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F8696F-6AE7-E221-3EC1-733743DC43B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F8696F-6AE7-E221-3EC1-733743DC43B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

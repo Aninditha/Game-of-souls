@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8EE53C4F-3E3D-9011-4F7B-05CD6683DFDF}") = "GameOfSouls-Final", "Assembly-CSharp.csproj", "{ECE87C57-FE58-D5F7-8FB6-F516559C54F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECE87C57-FE58-D5F7-8FB6-F516559C54F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE87C57-FE58-D5F7-8FB6-F516559C54F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE87C57-FE58-D5F7-8FB6-F516559C54F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE87C57-FE58-D5F7-8FB6-F516559C54F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
