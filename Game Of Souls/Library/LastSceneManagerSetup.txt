@@ -1,4 +1,0 @@
-sceneSetups:
-- path: D:/MS-ComputerScience/Fall'2016/Intro to Game design and development/TicTacToe_Minimax_Application-master/Project/Assets/main.unity
-  isLoaded: 1
-  isActive: 1
